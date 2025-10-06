@@ -89,8 +89,8 @@
 | [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix) | Unknown | Fixes bug where withers forget their targets. | Server |
 
 ## Extra Server Details
-Java arguments: 
-
 1.20.1
 
 Fabric 0.17.2
+
+Java arguments (This helps with Java's garbage cleaning, improving performance): 
