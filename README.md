@@ -13,7 +13,6 @@
 | [Better Beds](https://modrinth.com/mod/better-beds) | Unknown | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. | Client |
 | [Better Chunk Loading](https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric) | Unknown | Predicts player movement and pre-loads chunks ahead of them asynchronously; improves chunk loading speed and reduces loaded/unloaded chunks. | Both |
 | [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric) | Very Many Players | Adds performance improvements to increase fps. | Client |
-| [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) | Unknown | Improves chunk performance. | Both |
 | [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) | Unknown | Fixes connection problems and offers network traffic analysis commands. | Both |
 | [Chunky](https://modrinth.com/mod/chunky) | Unknown | Pre-generates chunks efficiently. | Both |
 | [Chunk Sending](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric) | Unknown | Optimizes chunk packet sending. | Server |
@@ -40,7 +39,6 @@
 | [Lazy Language Loader](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader) | Unknown | Improves loading times when switching language. | Client |
 | [Leaky](https://www.curseforge.com/minecraft/mc-mods/leaky) | Unknown | Detects and reports setups leaking items. | Both |
 | [Let Me Despawn](https://modrinth.com/plugin/lmd) | Unknown | Allows mobs with equipped items to despawn naturally. | Server |
-| [Lithium](https://modrinth.com/mod/lithium) | Unknown | General-purpose optimization mod. | Both |
 | [Limited Chunkloading](https://www.curseforge.com/minecraft/mc-mods/limited-chunkloading) | Unknown | Limits loaded chunks after player logout. | Both |
 | [Log Begone](https://www.curseforge.com/minecraft/mc-mods/log-begone) | Unknown | Removes log spam, improving performance. | Server |
 | [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) | None | Improves launch times, world load times, and memory usage. | Both |
@@ -49,14 +47,11 @@
 | [Particle Core](https://modrinth.com/mod/particle-core) | Unknown | Particle rendering optimizations and culling. | Client |
 | [Raknetify](https://modrinth.com/plugin/raknetify) | Unknown | Enables Raknet connections for better performance. | Both |
 | [Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric) | Unknown | Caches and optimizes recipe lookups. | Both |
-| [Sodium](https://modrinth.com/mod/sodium) | Mods using FRAPI | Rendering engine replacement for better FPS. | Client |
 | [ServerCore](https://modrinth.com/mod/servercore) | Unknown | Optimizes and adds multiplayer features to server. | Server |
 | [Smoke Suppresion](https://modrinth.com/mod/smoke-suppression) | Unknown | Prevents lag from campfire smoke. | Client |
 | [Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save) | Unknown | Saves chunks gradually to prevent lag spikes. | Server |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | Unknown | Full rewrite of Minecraft’s light engine. | Both |
 | [Structure Essentials](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric) | Unknown | Faster locate command and structure utilities. | Server |
-| [Very Many Players](https://modrinth.com/mod/vmp-fabric) | Unknown | Improves server performance at high player counts. | Server |
-| [Vulkan Mod](https://www.curseforge.com/minecraft/mc-mods/vulkanmod) | Sodium, Exordium | Uses Vulkan API for rendering instead of OpenGL. | Client |
 
 ## Bug Fixes
 
