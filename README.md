@@ -44,7 +44,6 @@
 | [Lithium](https://modrinth.com/mod/lithium) | Unknown | General-purpose optimization mod. | Both |
 | [Limited Chunkloading](https://www.curseforge.com/minecraft/mc-mods/limited-chunkloading) | Unknown | Limits loaded chunks after player logout. | Both |
 | [Log Begone](https://www.curseforge.com/minecraft/mc-mods/log-begone) | Unknown | Removes log spam, improving performance. | Server |
-| [Methane](https://modrinth.com/mod/methane) | Starlight, Phosphor | Removes fog and lighting to reduce lag. | Client |
 | [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) | None | Improves launch times, world load times, and memory usage. | Both |
 | [More Culling](https://modrinth.com/mod/moreculling) | See issue #6 | Changes blockstate culling for better performance. | Client |
 | [nvidium](https://modrinth.com/mod/nvidium) | Unknown | Nvidia-only rendering backend for Sodium. | Client |
