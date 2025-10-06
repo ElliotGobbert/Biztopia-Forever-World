@@ -50,7 +50,6 @@
 | [Particle Core](https://modrinth.com/mod/particle-core) | Unknown | Particle rendering optimizations and culling. | Client |
 | [Raknetify](https://modrinth.com/plugin/raknetify) | Unknown | Enables Raknet connections for better performance. | Both |
 | [Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric) | Unknown | Caches and optimizes recipe lookups. | Both |
-| [Simply No Shading](https://www.curseforge.com/minecraft/mc-mods/simply-no-shading) | Unknown | Provides OptiFine-like no-shading lighting without shaders. | Client |
 | [Sodium](https://modrinth.com/mod/sodium) | Mods using FRAPI | Rendering engine replacement for better FPS. | Client |
 | [ServerCore](https://modrinth.com/mod/servercore) | Unknown | Optimizes and adds multiplayer features to server. | Server |
 | [Smoke Suppresion](https://modrinth.com/mod/smoke-suppression) | Unknown | Prevents lag from campfire smoke. | Client |
