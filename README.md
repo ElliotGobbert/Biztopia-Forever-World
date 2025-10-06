@@ -1,11 +1,9 @@
 # Biztopia-Forever-World Modlist
-### 1.20.1
-### Fabric 0.17.2
 
 ## Main Menu
 - [Performance Mods](#Performance)
 - [Bug Fixing Mods](#Bug-Fixes)
-
+- [Server Details(#Extra-Serve-Details)
 
 ## Performance
 
@@ -89,3 +87,8 @@
 | [Translucency Fix](https://modrinth.com/mod/translucencyfix) | Unknown | Enables semitranslucent textures in resource packs. | Client |
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire) | Unknown | Hides obstructive fire overlay when unnecessary. | Both |
 | [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix) | Unknown | Fixes bug where withers forget their targets. | Server |
+
+## Extra Server Details
+Java arguments: 
+1.20.1
+Fabric 0.17.2
