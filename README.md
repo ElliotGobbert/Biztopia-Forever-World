@@ -36,7 +36,6 @@
 | [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) | Unknown | Combines dropped items to improve performance. | Server |
 | [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | Unknown | Improves immediate mode rendering performance. | Client |
 | [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Unknown | Networking optimizations for Fabric. | Both |
-| [Ksyxis](https://www.curseforge.com/minecraft/mc-mods/ksyxis) | Fastload | Speeds up world loading by skipping chunk load/unload. | Both |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | Unknown | Makes DataFixerUpper initialization lazy. | Both |
 | [Lazy Language Loader](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader) | Unknown | Improves loading times when switching language. | Client |
 | [Leaky](https://www.curseforge.com/minecraft/mc-mods/leaky) | Unknown | Detects and reports setups leaking items. | Both |
