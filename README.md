@@ -90,5 +90,7 @@
 
 ## Extra Server Details
 Java arguments: 
+
 1.20.1
+
 Fabric 0.17.2
