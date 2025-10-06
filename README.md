@@ -1,5 +1,10 @@
 # Biztopia-Forever-World (Fabric) Modlist (Sorted by Type)
 
+## Main Menu
+- [Performance](#Performance)
+- [Bug Fixes](#Bug-Fixes)
+
+
 ## Performance
 
 | Name | Known Incompatibilities | Description | Performance Improvement |
