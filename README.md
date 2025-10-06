@@ -46,7 +46,6 @@
 | [Log Begone](https://www.curseforge.com/minecraft/mc-mods/log-begone) | Unknown | Removes log spam, improving performance. | Server |
 | [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) | None | Improves launch times, world load times, and memory usage. | Both |
 | [More Culling](https://modrinth.com/mod/moreculling) | See issue #6 | Changes blockstate culling for better performance. | Client |
-| [nvidium](https://modrinth.com/mod/nvidium) | Unknown | Nvidia-only rendering backend for Sodium. | Client |
 | [Particle Blocker](https://modrinth.com/mod/particles) | Unknown | Lets the user disable specific particles. | Client |
 | [Particle Core](https://modrinth.com/mod/particle-core) | Unknown | Particle rendering optimizations and culling. | Client |
 | [Raknetify](https://modrinth.com/plugin/raknetify) | Unknown | Enables Raknet connections for better performance. | Both |
