@@ -1,4 +1,6 @@
-# Biztopia-Forever-World (Fabric) Modlist (Sorted by Type)
+# Biztopia-Forever-World Modlist
+### 1.20.1
+### Fabric 0.17.2
 
 ## Main Menu
 - [Performance Mods](#Performance)
