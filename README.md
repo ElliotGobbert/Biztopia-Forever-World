@@ -13,7 +13,6 @@
 | [Better Beds](https://modrinth.com/mod/better-beds) | Unknown | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. | Client |
 | [Better Chunk Loading](https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric) | Unknown | Predicts player movement and pre-loads chunks ahead of them asynchronously; improves chunk loading speed and reduces loaded/unloaded chunks. | Both |
 | [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric) | Very Many Players | Adds performance improvements to increase fps. | Client |
-| [Canvas Renderer](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer) | Sodium | Advanced Rendering Engine for Fabric. | Client |
 | [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) | Unknown | Improves chunk performance. | Both |
 | [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) | Unknown | Fixes connection problems and offers network traffic analysis commands. | Both |
 | [Chunky](https://modrinth.com/mod/chunky) | Unknown | Pre-generates chunks efficiently. | Both |
