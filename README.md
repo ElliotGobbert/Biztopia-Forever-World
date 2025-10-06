@@ -3,7 +3,7 @@
 ## Main Menu
 - [Performance Mods](#Performance)
 - [Bug Fixing Mods](#Bug-Fixes)
-- [Server Details(#Extra-Server-Details)
+- [Server Details](#Extra-Server-Details)
 
 ## Performance
 
