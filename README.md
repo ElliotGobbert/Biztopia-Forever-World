@@ -22,6 +22,7 @@
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Groups XP orbs together to reduce lag. | Server |
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | Unknown | Improved version of Cull Leaves. | Client |
 | [DashLoader](https://modrinth.com/mod/dashloader) | Unknown | Launches Minecraft faster by caching content. | Client |
+| [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons) | Some Lighting Mods | Improves render distance efficiently with LODs | Client |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Reduces rendering speed when Minecraft is not focused or hidden. | Client |
 | [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view-fabric) | APTweaks | Adjusts view/load distance to balance lag and performance. | Server |
 | [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) | Magnesium, OptiFine, Rubidium | Fork of Rubidium with better mod compatibility. | Client |
