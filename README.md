@@ -33,7 +33,7 @@
 | [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) | Unknown | Combines dropped items to improve performance. | Server |
 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) | Unknown | A rendering optimisation mod | Client |
 | [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | Unknown | Improves immediate mode rendering performance. | Client |
-| [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | Optifine | Enables shaders | Client |
+| [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | Optifine | Enables shaders while keeping compatible with sodium and distant horizons| Client |
 | [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Unknown | Networking optimizations for Fabric. | Both |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | Unknown | Makes DataFixerUpper initialization lazy. | Both |
 | [Lazy Language Loader](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader) | Unknown | Improves loading times when switching language. | Client |
@@ -88,3 +88,7 @@ Fabric 0.17.2
 Java arguments (This helps with Java's garbage cleaning, improving performance): 
 
 -XX:+UseG1GC -Xmx12G -Xms12G -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+
+Remove these mods from the server pack:
+Distant Horizons
+Particle Blocker
