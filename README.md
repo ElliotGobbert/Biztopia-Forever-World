@@ -59,7 +59,6 @@
 | --- | :---: | :---: | :---: |
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks within a 4-block radius cube with a configurable key. | Client |
 | [Blanket](https://modrinth.com/mod/blanket) | Unknown | Fixes a variety of bugs, as well as including some QoL features. | Client |
-| [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) | Unknown | Carpet extension which fixes hundreds of vanilla bugs. | Both |
 | [Debugify](https://modrinth.com/mod/debugify) | Unknown | Fixes a variety of bugs. | Both |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Fixes a bug where Minecraft uses too much performance in the background. | Client |
 | [Fix Alt Gr](https://modrinth.com/mod/fix-alt-gr) | Unknown | Fixes MC-127862 bug where pressing Alt Gr locks left control key. | Client |
