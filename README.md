@@ -8,7 +8,7 @@
 
 ## Performance
 
-| Name | Known Incompatibilities | Description | Performance Improvement |
+| Name | Known Incompatibilities | Description | Client/Server Side |
 | --- | :---: | :---: | :---: |
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | Unknown | Alternate Current is an efficient and non-locational redstone dust implementation. | Server |
 | [Better Beds](https://modrinth.com/mod/better-beds) | Unknown | Removes the Block Entity Renderer from the bed and replaces it with the default minecraft model renderer. | Client |
@@ -55,7 +55,7 @@
 
 ## Bug Fixes
 
-| Name | Known Incompatibilities | Description | Bugfixing |
+| Name | Known Incompatibilities | Description | Client/Server Side |
 | --- | :---: | :---: | :---: |
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Unknown | Removes all ghost blocks within a 4-block radius cube with a configurable key. | Client |
 | [Blanket](https://modrinth.com/mod/blanket) | Unknown | Fixes a variety of bugs, as well as including some QoL features. | Client |
@@ -76,7 +76,7 @@
 | [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix) | Unknown | Fixes bug where withers forget their targets. | Server |
 
 ## Utility
-| Name | Known Incompatibilities | Description | Bugfixing |
+| Name | Known Incompatibilities | Description | Client/Server Side |
 | --- | :---: | :---: | :---: |
 | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | Optifine | Enables shaders | Client |
 
