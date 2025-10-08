@@ -3,7 +3,7 @@
 ## Main Menu
 - [Performance Mods](#Performance)
 - [Bug Fixing Mods](#Bug-Fixes)
-- [Utility Mods](#Utility)
+- [Quality of Life Mods](#Quality-of-Life)
 - [Server Details](#Extra-Server-Details)
 
 ## Performance
@@ -33,6 +33,7 @@
 | [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) | Unknown | Combines dropped items to improve performance. | Server |
 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) | Unknown | A rendering optimisation mod | Client |
 | [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | Unknown | Improves immediate mode rendering performance. | Client |
+| [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | Optifine | Enables shaders | Client |
 | [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Unknown | Networking optimizations for Fabric. | Both |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | Unknown | Makes DataFixerUpper initialization lazy. | Both |
 | [Lazy Language Loader](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader) | Unknown | Improves loading times when switching language. | Client |
@@ -75,10 +76,9 @@
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire) | Unknown | Hides obstructive fire overlay when unnecessary. | Both |
 | [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix) | Unknown | Fixes bug where withers forget their targets. | Server |
 
-## Utility
+## Quality of Life
 | Name | Known Incompatibilities | Description | Client/Server Side |
 | --- | :---: | :---: | :---: |
-| [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | Optifine | Enables shaders | Client |
 
 ## Extra Server Details
 1.20.1
