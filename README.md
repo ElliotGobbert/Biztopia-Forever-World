@@ -137,6 +137,7 @@
 | [Screenshot to Clipboard](https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard-fabric) | Unknown | Copies screenshots to your clipboard the moment you take them for easy pasting and sharing. | Client |
 | [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) | Requires JEI | Highlights blocks with inventories (chests, furnaces) when you search for an item in JEI. | Client |
 | [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip) | Unknown | Allows you to see the contents of a shulker box by hovering over it in an inventory. | Client |
+| [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) | Other sound engine mods | Adds realistic sound physics, including reverb, echoes, and sound absorption based on the environment. | Client |
 | [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) | Unknown | A performance profiler used to diagnose performance issues and lag spikes. | Both |
 | [Sparse Structures](https://www.curseforge.com/minecraft/mc-mods/sparse-structures) | Unknown | Allows you to configure the spacing of vanilla and modded structures to make them more or less common. | Server |
 | [Speed Building](https://www.curseforge.com/minecraft/mc-mods/speed-building-scaffolding-behavior) | Unknown | Replicates the building behavior of scaffolding for any block, allowing you to build up and out quickly. | Both |
