@@ -88,8 +88,11 @@
 | [Better Compatibility Checker](https://modrinth.com/mod/better-compatibility-checker) | A library mod | A library mod that helps other mods manage their compatibility checks, providing more useful info on startup. | Both |
 | [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3) | Unknown | Replaces the default F3 debug screen with a more customizable and readable version. | Client |
 | [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) | Unknown | Moves the Forge `Mods` button into its own dedicated button on the main menu screen. | Client |
+| [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | Horse Stonks (Redundant) | Displays mount stats (health, speed) on the HUD while you are riding it. | Client |
 | [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric) | Unknown | Replaces the five-bar connection icon in the player list with a numerical ping value. | Client |
+| [Better Statistics Screen](https://www.curseforge.com/minecraft/mc-mods/better-stats) | Unknown | Overhauls the statistics screen with a cleaner, searchable, and more detailed interface. | Client |
 | [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) | Unknown | Shows player heads next to their messages in the chat window. | Client |
+| [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds) | Unknown | Allows you to "favorite" worlds, pinning them to the top of your singleplayer world list. | Client |
 | [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass) | Unknown | Prevents your sword swings from being interrupted by breaking tall grass or other foliage. | Client |
 | [Colorful Hearts](https://www.curseforge.com/minecraft/mc-mods/colorful-hearts) | Mods modifying the player HUD | Lets you change the color of the health bar and adds different colors for various effects (absorption, poison, etc.). | Client |
 | [Connectable Chains](https://www.curseforge.com/minecraft/mc-mods/connectable-chains) | Unknown | Makes chains connect to walls and ceilings for better-looking builds. | Client |
@@ -99,6 +102,7 @@
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | Unknown | Adds dedicated cosmetic armor slots to change your appearance without affecting stats. | Both |
 | [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) | Mods with custom crafting tables | Adds buttons to the crafting grid to rotate, balance, or clear it, making crafting faster. | Both |
 | [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere) | Mods with highly custom GUIs | Adds a configurable dark mode to all GUIs, including those from other mods. | Client |
+| [Disable Custom Worlds Advice](https://www.curseforge.com/minecraft/mc-mods/disable-custom-worlds-advice) | Unknown | Removes the "experimental settings" warning when loading worlds with custom datapacks or settings. | Client |
 | [Do a Barrel Roll](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll) | Unknown | A client-side mod that adds acrobatic movement for the Elytra, allowing for rolls and loops. | Client |
 | [Emojiful](https://www.curseforge.com/minecraft/mc-mods/emojiful) | Unknown | Adds support for emojis in chat, signs, and books. | Both |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | Unknown | Adds descriptions of what each enchantment does to the tooltips of enchanted books. | Client |
@@ -123,13 +127,16 @@
 | [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) | Unknown | Adds the name of the mod an item is from to its tooltip. | Client |
 | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | Unknown | Enhances inventory management with new dragging mechanics and scroll wheel actions. | Client |
 | [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | Unknown | Disables Mojang's chat reporting system by removing cryptographic signing from chat messages. | Both |
+| [No Resource Pack Warnings](https://www.curseforge.com/minecraft/mc-mods/no-resource-pack-warnings) | Unknown | Suppresses the warning screen for using resource packs made for a different Minecraft version. | Client |
 | [NoMoWanderer](https://www.curseforge.com/minecraft/mc-mods/nomowanderer) | Unknown | A server-side mod to control or disable the spawning of the Wandering Trader. | Server |
 | [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain) | Unknown | Makes rain and snow more immersive by rendering them as 3D particles instead of a flat texture overlay. | Client |
 | [Pick Up Notifier](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier) | Unknown | Displays a list of recently picked-up items on the side of your screen. | Client |
 | [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) | Unknown | Resolves crafting conflicts by allowing multiple recipes to exist for the same output item. | Both |
 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) | Mods altering similar mechanics | A massive "vanilla plus" mod that adds a huge amount of small, configurable features to the game. | Both |
 | [Save Your Pets](https://www.curseforge.com/minecraft/mc-mods/save-your-pets) | Unknown | Prevents your tamed pets from being accidentally harmed by your own attacks. | Both |
+| [Screenshot to Clipboard](https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard-fabric) | Unknown | Copies screenshots to your clipboard the moment you take them for easy pasting and sharing. | Client |
 | [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) | Requires JEI | Highlights blocks with inventories (chests, furnaces) when you search for an item in JEI. | Client |
+| [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip) | Unknown | Allows you to see the contents of a shulker box by hovering over it in an inventory. | Client |
 | [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) | Unknown | A performance profiler used to diagnose performance issues and lag spikes. | Both |
 | [Sparse Structures](https://www.curseforge.com/minecraft/mc-mods/sparse-structures) | Unknown | Allows you to configure the spacing of vanilla and modded structures to make them more or less common. | Server |
 | [Speed Building](https://www.curseforge.com/minecraft/mc-mods/speed-building-scaffolding-behavior) | Unknown | Replicates the building behavior of scaffolding for any block, allowing you to build up and out quickly. | Both |
@@ -139,6 +146,7 @@
 | [Trade Cycling](https://www.curseforge.com/minecraft/mc-mods/trade-cycling) | Unknown | Lets you cycle through a villager's trades by scrolling with the mouse wheel. | Client |
 | [What Are They Up To](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) | Unknown | Shows what other players on a server are doing via an icon and text next to their name in the player list. | Both |
 | [Xaero's Minimap & World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Other minimap mods | Adds a highly customizable minimap and a full-screen world map to the game. | Client |
+| [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A highly configurable client-side zoom mod, similar to the feature in OptiFine. | Client |
 
   
 
