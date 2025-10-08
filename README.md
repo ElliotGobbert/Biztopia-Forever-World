@@ -3,6 +3,7 @@
 ## Main Menu
 - [Performance Mods](#Performance)
 - [Bug Fixing Mods](#Bug-Fixes)
+- [Utility Mods](#Utility)
 - [Server Details](#Extra-Server-Details)
 
 ## Performance
@@ -14,7 +15,6 @@
 | [Better Chunk Loading](https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric) | Unknown | Predicts player movement and pre-loads chunks ahead of them asynchronously; improves chunk loading speed and reduces loaded/unloaded chunks. | Both |
 | [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric) | Very Many Players | Adds performance improvements to increase fps. | Client |
 | [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) | Unknown | Fixes connection problems and offers network traffic analysis commands. | Both |
-| [Chunky](https://modrinth.com/mod/chunky) | Unknown | Pre-generates chunks efficiently. | Both |
 | [Chunk Sending](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric) | Unknown | Optimizes chunk packet sending. | Server |
 | [Client Crafting](https://www.curseforge.com/minecraft/mc-mods/client-crafting) | Unknown | Makes crafting UIs more responsive by removing server delay. | Client |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Unknown | Groups XP orbs together to reduce lag. | Server |
@@ -23,7 +23,6 @@
 | [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons) | Some Lighting Mods | Improves render distance efficiently with LODs | Client |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Reduces rendering speed when Minecraft is not focused or hidden. | Client |
 | [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view-fabric) | APTweaks | Adjusts view/load distance to balance lag and performance. | Server |
-| [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) | Magnesium, OptiFine, Rubidium | Fork of Rubidium with better mod compatibility. | Client |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Sodium | Improves block entity rendering performance and customizability. | Client |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Skips rendering entities/tiles not visible using async path-tracing. | Client |
 | [Fabric Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunk-pregenerator-fabric) | Unknown | Pregenerates chunks in Fabric. | Both |
@@ -32,6 +31,7 @@
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Unknown | Reduces memory usage in multiple ways. | Both |
 | [Fix GPU Memory Leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak) | Unknown | Fixes GPU memory leak bugs. | Client |
 | [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) | Unknown | Combines dropped items to improve performance. | Server |
+| [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) | Unknown | A rendering optimisation mod | Client |
 | [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | Unknown | Improves immediate mode rendering performance. | Client |
 | [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Unknown | Networking optimizations for Fabric. | Both |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | Unknown | Makes DataFixerUpper initialization lazy. | Both |
@@ -46,6 +46,7 @@
 | [Particle Core](https://modrinth.com/mod/particle-core) | Unknown | Particle rendering optimizations and culling. | Client |
 | [Raknetify](https://modrinth.com/plugin/raknetify) | Unknown | Enables Raknet connections for better performance. | Both |
 | [Recipe Essentials](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric) | Unknown | Caches and optimizes recipe lookups. | Both |
+| [Sodium](https://modrinth.com/mod/sodium) | Mods the utilize FRAPI | Sodium is a free and open-source rendering engine replacement for the Minecraft client that greatly improves frame rates, reduces micro-stutter, and fixes graphical issues in Minecraft. | Client |
 | [ServerCore](https://modrinth.com/mod/servercore) | Unknown | Optimizes and adds multiplayer features to server. | Server |
 | [Smoke Suppresion](https://modrinth.com/mod/smoke-suppression) | Unknown | Prevents lag from campfire smoke. | Client |
 | [Smooth Chunk Save](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save) | Unknown | Saves chunks gradually to prevent lag spikes. | Server |
@@ -73,6 +74,11 @@
 | [Translucency Fix](https://modrinth.com/mod/translucencyfix) | Unknown | Enables semitranslucent textures in resource packs. | Client |
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire) | Unknown | Hides obstructive fire overlay when unnecessary. | Both |
 | [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix) | Unknown | Fixes bug where withers forget their targets. | Server |
+
+## Utility
+| Name | Known Incompatibilities | Description | Bugfixing |
+| --- | :---: | :---: | :---: |
+| [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | Optifine | Enables shaders | Client |
 
 ## Extra Server Details
 1.20.1
