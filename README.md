@@ -29,7 +29,6 @@
 | [Fabric Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunk-pregenerator-fabric) | Unknown | Pregenerates chunks in Fabric. | Both |
 | [FastAnim](https://modrinth.com/mod/fastanim) | Unknown | Improves entity animation speed. | Client |
 | [Fast Async World Save](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric) | Unknown | Saves data asynchronously to prevent server lag spikes. | Server |
-| [Fastload](https://www.curseforge.com/minecraft/mc-mods/fastload) | ForceCloseLoadingScreen, Ksyxis | Reduces world loading time. | Both |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Unknown | Reduces memory usage in multiple ways. | Both |
 | [Fix GPU Memory Leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak) | Unknown | Fixes GPU memory leak bugs. | Client |
 | [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) | Unknown | Combines dropped items to improve performance. | Server |
