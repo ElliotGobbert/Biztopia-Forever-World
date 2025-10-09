@@ -3,6 +3,7 @@
 ## Main Menu
 - [Performance Mods](#Performance)
 - [Bug Fixing Mods](#Bug-Fixes)
+- [Utility Mods](#Utility)
 - [Quality of Life Mods](#Quality-of-Life)
 - [Server Details](#Extra-Server-Details)
 
@@ -33,7 +34,6 @@
 | [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) | Unknown | Combines dropped items to improve performance. | Server |
 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) | Unknown | A rendering optimisation mod | Client |
 | [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | Unknown | Improves immediate mode rendering performance. | Client |
-| [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | Optifine | Enables shaders while keeping compatible with sodium and distant horizons| Client |
 | [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Unknown | Networking optimizations for Fabric. | Both |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | Unknown | Makes DataFixerUpper initialization lazy. | Both |
 | [Lazy Language Loader](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader) | Unknown | Improves loading times when switching language. | Client |
@@ -76,6 +76,14 @@
 | [Why Am I on Fire?](https://www.curseforge.com/minecraft/mc-mods/why-am-i-on-fire) | Unknown | Hides obstructive fire overlay when unnecessary. | Both |
 | [Wither Cage Fix](https://modrinth.com/mod/wither-cage-fix) | Unknown | Fixes bug where withers forget their targets. | Server |
 
+## Utility
+| Name | Known Incompatibilities | Description | Client/Server Side |
+| :--- | :---: | :---: | :---: |
+| [InControl!](https://www.curseforge.com/minecraft/mc-mods/in-control) | Unknown | A powerful server-side mod that gives you complete control over mob spawning via JSON rules. | Server |
+| [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | Optifine | Enables shaders while keeping compatible with sodium and distant horizons| Client |
+| [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) | Unknown | A performance profiler used to diagnose performance issues and lag spikes. | Both |
+| [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) | A library mod | A powerful scripting mod for changing recipes, creating items, and altering game events using JavaScript. | Both |
+
 ## Quality of Life
 | Name | Known Incompatibilities | Description | Client/Server Side |
 | :--- | :---: | :---: | :---: |
@@ -114,7 +122,6 @@
 | [Horse Stonks](https://modrinth.com/mod/horse-stonks) | Unknown | Shows horse stats (speed, jump height, health) in a tooltip when you're riding or looking at them. | Client |
 | [Immersive Armor HUD](https://modrinth.com/mod/immersive-armor-hud) | Mods modifying the player HUD | Adds a dynamic and configurable HUD for your armor and held items. | Client |
 | [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings) | Unknown | Allows you to add your own images as paintings via a simple in-game GUI. | Both |
-| [InControl!](https://www.curseforge.com/minecraft/mc-mods/in-control) | Unknown | A powerful server-side mod that gives you complete control over mob spawning via JSON rules. | Server |
 | [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) | Unknown | Lets you sort your inventory or any container with the click of a button or a mouse wheel scroll. | Client |
 | [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) | Unknown | Displays a tooltip with information about the block or entity you are looking at. | Client |
 | [Jump Over Fences](https://www.curseforge.com/minecraft/mc-mods/jump-over-fences) | Unknown | Allows players on horseback to jump over fences and walls as if they were 1.5 blocks high. | Both |
@@ -122,11 +129,11 @@
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | Unknown | View items and recipes, check item uses, and easily search for any item in the game. | Client |
 | [Just Enough Professions (JEP)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep) | Requires JEI | An addon for JEI that shows what workstation block each villager profession requires. | Client |
 | [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | Requires JEI | An addon for JEI that shows mob drops, ore generation, dungeon loot, and more. | Client |
-| [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) | A library mod | A powerful scripting mod for changing recipes, creating items, and altering game events using JavaScript. | Both |
 | [Longer Chat History](https://www.curseforge.com/minecraft/mc-mods/longer-chat-history) | Unknown | A simple client-side mod that increases the number of lines saved in your chat history. | Client |
 | [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) | Unknown | Adds the name of the mod an item is from to its tooltip. | Client |
 | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | Unknown | Enhances inventory management with new dragging mechanics and scroll wheel actions. | Client |
 | [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | Unknown | Disables Mojang's chat reporting system by removing cryptographic signing from chat messages. | Both |
+| [No Potion Offset (Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset) | Unknown | Prevents potion effects from shifting your inventory GUI to the right, keeping it centered. | Client |
 | [No Resource Pack Warnings](https://www.curseforge.com/minecraft/mc-mods/no-resource-pack-warnings) | Unknown | Suppresses the warning screen for using resource packs made for a different Minecraft version. | Client |
 | [NoMoWanderer](https://www.curseforge.com/minecraft/mc-mods/nomowanderer) | Unknown | A server-side mod to control or disable the spawning of the Wandering Trader. | Server |
 | [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain) | Unknown | Makes rain and snow more immersive by rendering them as 3D particles instead of a flat texture overlay. | Client |
@@ -138,7 +145,6 @@
 | [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) | Requires JEI | Highlights blocks with inventories (chests, furnaces) when you search for an item in JEI. | Client |
 | [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip) | Unknown | Allows you to see the contents of a shulker box by hovering over it in an inventory. | Client |
 | [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) | Other sound engine mods | Adds realistic sound physics, including reverb, echoes, and sound absorption based on the environment. | Client |
-| [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) | Unknown | A performance profiler used to diagnose performance issues and lag spikes. | Both |
 | [Sparse Structures](https://www.curseforge.com/minecraft/mc-mods/sparse-structures) | Unknown | Allows you to configure the spacing of vanilla and modded structures to make them more or less common. | Server |
 | [Speed Building](https://www.curseforge.com/minecraft/mc-mods/speed-building-scaffolding-behavior) | Unknown | Replicates the building behavior of scaffolding for any block, allowing you to build up and out quickly. | Both |
 | [Tips](https://www.curseforge.com/minecraft/mc-mods/tips) | Unknown | Shows helpful, configurable tips on loading screens. | Client |
