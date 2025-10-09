@@ -117,6 +117,7 @@
 | [Every Compat](https://www.curseforge.com/minecraft/mc-mods/every-compat) | Requires specific content mods | A compatibility mod that adds wood and stone variants from other mods to decoration mods like Macaw's. | Both |
 | [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) | Unknown | Adds falling leaf particles to leaf blocks for a more immersive atmosphere. | Client |
 | [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping) | Unknown | Speeds up refreshing the server list by using a more efficient pinging method. | Client |
+| [FPS - Display](https://www.curseforge.com/minecraft/mc-mods/fpsdisplay) | Better F3 (Redundant) | Displays your current Frames Per Second (FPS) on the screen without needing to open the F3 debug menu. | Client |
 | [Freecam](https://modrinth.com/mod/free-cam) | Some anti-cheats | Allows you to temporarily detach your camera and fly around the world freely. | Client |
 | [Harvest With Ease](https://www.curseforge.com/minecraft/mc-mods/harvest-with-ease) | Other right-click harvest mods | A simple right-click to harvest and replant crops mod. | Both |
 | [Horse Stonks](https://modrinth.com/mod/horse-stonks) | Unknown | Shows horse stats (speed, jump height, health) in a tooltip when you're riding or looking at them. | Client |
