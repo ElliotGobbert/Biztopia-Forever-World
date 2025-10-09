@@ -98,7 +98,9 @@
 | [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) | Unknown | Moves the Forge `Mods` button into its own dedicated button on the main menu screen. | Client |
 | [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | Horse Stonks (Redundant) | Displays mount stats (health, speed) on the HUD while you are riding it. | Client |
 | [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric) | Unknown | Replaces the five-bar connection icon in the player list with a numerical ping value. | Client |
+| [Better Placement](https://www.curseforge.com/minecraft/mc-mods/better-placement) | Unknown | Ensures blocks are placed facing the same direction as the previous one, preventing misplacement. | Client |
 | [Better Statistics Screen](https://www.curseforge.com/minecraft/mc-mods/better-stats) | Unknown | Overhauls the statistics screen with a cleaner, searchable, and more detailed interface. | Client |
+| [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) | Some block handling mods | Lets you pick up and carry chests, machines, and mobs without breaking them. | Both |
 | [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) | Unknown | Shows player heads next to their messages in the chat window. | Client |
 | [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds) | Unknown | Allows you to "favorite" worlds, pinning them to the top of your singleplayer world list. | Client |
 | [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass) | Unknown | Prevents your sword swings from being interrupted by breaking tall grass or other foliage. | Client |
@@ -117,13 +119,14 @@
 | [Every Compat](https://www.curseforge.com/minecraft/mc-mods/every-compat) | Requires specific content mods | A compatibility mod that adds wood and stone variants from other mods to decoration mods like Macaw's. | Both |
 | [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) | Unknown | Adds falling leaf particles to leaf blocks for a more immersive atmosphere. | Client |
 | [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping) | Unknown | Speeds up refreshing the server list by using a more efficient pinging method. | Client |
-| [FPS - Display](https://www.curseforge.com/minecraft/mc-mods/fpsdisplay) | Better F3 (Redundant) | Displays your current Frames Per Second (FPS) on the screen without needing to open the F3 debug menu. | Client |
 | [Freecam](https://modrinth.com/mod/free-cam) | Some anti-cheats | Allows you to temporarily detach your camera and fly around the world freely. | Client |
 | [Harvest With Ease](https://www.curseforge.com/minecraft/mc-mods/harvest-with-ease) | Other right-click harvest mods | A simple right-click to harvest and replant crops mod. | Both |
 | [Horse Stonks](https://modrinth.com/mod/horse-stonks) | Unknown | Shows horse stats (speed, jump height, health) in a tooltip when you're riding or looking at them. | Client |
 | [Immersive Armor HUD](https://modrinth.com/mod/immersive-armor-hud) | Mods modifying the player HUD | Adds a dynamic and configurable HUD for your armor and held items. | Client |
 | [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings) | Unknown | Allows you to add your own images as paintings via a simple in-game GUI. | Both |
+| [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) | HUD-altering mods | Displays parts of your inventory, armor HUD, and potion effects directly on the screen. | Client |
 | [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) | Unknown | Lets you sort your inventory or any container with the click of a button or a mouse wheel scroll. | Client |
+| [Item Borders](https://modrinth.com/mod/item-borders) | Unknown | Adds colored borders to items in inventories based on rarity or custom rules. | Client |
 | [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) | Unknown | Displays a tooltip with information about the block or entity you are looking at. | Client |
 | [Jump Over Fences](https://www.curseforge.com/minecraft/mc-mods/jump-over-fences) | Unknown | Allows players on horseback to jump over fences and walls as if they were 1.5 blocks high. | Both |
 | [Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed) | Requires JEI | Adds descriptions of potion effects to their tooltips. | Client |
@@ -134,7 +137,6 @@
 | [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) | Unknown | Adds the name of the mod an item is from to its tooltip. | Client |
 | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | Unknown | Enhances inventory management with new dragging mechanics and scroll wheel actions. | Client |
 | [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | Unknown | Disables Mojang's chat reporting system by removing cryptographic signing from chat messages. | Both |
-| [No Potion Offset (Fabric/Forge)](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset) | Unknown | Prevents potion effects from shifting your inventory GUI to the right, keeping it centered. | Client |
 | [No Resource Pack Warnings](https://www.curseforge.com/minecraft/mc-mods/no-resource-pack-warnings) | Unknown | Suppresses the warning screen for using resource packs made for a different Minecraft version. | Client |
 | [NoMoWanderer](https://www.curseforge.com/minecraft/mc-mods/nomowanderer) | Unknown | A server-side mod to control or disable the spawning of the Wandering Trader. | Server |
 | [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain) | Unknown | Makes rain and snow more immersive by rendering them as 3D particles instead of a flat texture overlay. | Client |
@@ -155,7 +157,6 @@
 | [What Are They Up To](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) | Unknown | Shows what other players on a server are doing via an icon and text next to their name in the player list. | Both |
 | [Xaero's Minimap & World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Other minimap mods | Adds a highly customizable minimap and a full-screen world map to the game. | Client |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A highly configurable client-side zoom mod, similar to the feature in OptiFine. | Client |
-
   
 
 ## Extra Server Details
