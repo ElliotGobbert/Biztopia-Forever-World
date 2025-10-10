@@ -104,7 +104,6 @@
 | [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) | Unknown | Shows player heads next to their messages in the chat window. | Client |
 | [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds) | Unknown | Allows you to "favorite" worlds, pinning them to the top of your singleplayer world list. | Client |
 | [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass) | Unknown | Prevents your sword swings from being interrupted by breaking tall grass or other foliage. | Client |
-| [Colorful Hearts](https://www.curseforge.com/minecraft/mc-mods/colorful-hearts) | Mods modifying the player HUD | Lets you change the color of the health bar and adds different colors for various effects (absorption, poison, etc.). | Client |
 | [Connectable Chains](https://www.curseforge.com/minecraft/mc-mods/connectable-chains) | Unknown | Makes chains connect to walls and ceilings for better-looking builds. | Client |
 | [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass) | Requires a compatible resource pack | A resource-pack-based connected textures mod for glass and other blocks. | Client |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) | Unknown | Adds a search bar to the key-binds menu and highlights conflicting keys. | Client |
@@ -139,6 +138,7 @@
 | [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | Unknown | Disables Mojang's chat reporting system by removing cryptographic signing from chat messages. | Both |
 | [No Resource Pack Warnings](https://www.curseforge.com/minecraft/mc-mods/no-resource-pack-warnings) | Unknown | Suppresses the warning screen for using resource packs made for a different Minecraft version. | Client |
 | [NoMoWanderer](https://www.curseforge.com/minecraft/mc-mods/nomowanderer) | Unknown | A server-side mod to control or disable the spawning of the Wandering Trader. | Server |
+| [Overflowing Bars](https://modrinth.com/mod/overflowing-bars) | Mods modifying the player HUD | Allows health, hunger, and armor bars to extend into multiple rows instead of being capped. | Client |
 | [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain) | Unknown | Makes rain and snow more immersive by rendering them as 3D particles instead of a flat texture overlay. | Client |
 | [Pick Up Notifier](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier) | Unknown | Displays a list of recently picked-up items on the side of your screen. | Client |
 | [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) | Unknown | Resolves crafting conflicts by allowing multiple recipes to exist for the same output item. | Both |
