@@ -133,6 +133,7 @@
 | [Just Enough Professions (JEP)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep) | Requires JEI | An addon for JEI that shows what workstation block each villager profession requires. | Client |
 | [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | Requires JEI | An addon for JEI that shows mob drops, ore generation, dungeon loot, and more. | Client |
 | [Longer Chat History](https://www.curseforge.com/minecraft/mc-mods/longer-chat-history) | Unknown | A simple client-side mod that increases the number of lines saved in your chat history. | Client |
+| [Mod Menu](https://modrinth.com/mod/modmenu) | None | Adds a button to the title screen to view a list of installed mods with configuration options. | Client |
 | [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) | Unknown | Adds the name of the mod an item is from to its tooltip. | Client |
 | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | Unknown | Enhances inventory management with new dragging mechanics and scroll wheel actions. | Client |
 | [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | Unknown | Disables Mojang's chat reporting system by removing cryptographic signing from chat messages. | Both |
