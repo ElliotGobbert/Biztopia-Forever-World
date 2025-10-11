@@ -79,7 +79,7 @@
 ## Utility
 | Name | Known Incompatibilities | Description | Client/Server Side |
 | :--- | :---: | :---: | :---: |
-| [InControl!](https://www.curseforge.com/minecraft/mc-mods/in-control) | Unknown | A powerful server-side mod that gives you complete control over mob spawning via JSON rules. | Server |
+| [Custom Entity Attributes](https://www.curseforge.com/minecraft/mc-mods/custom-entity-attributes) | A library mod | A library/API mod that allows other mods to add custom attributes (like extra health, attack speed, etc.) to entities. | Both |
 | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | Optifine | Enables shaders while keeping compatible with sodium and distant horizons| Client |
 | [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) | Unknown | A performance profiler used to diagnose performance issues and lag spikes. | Both |
 | [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) | A library mod | A powerful scripting mod for changing recipes, creating items, and altering game events using JavaScript. | Both |
