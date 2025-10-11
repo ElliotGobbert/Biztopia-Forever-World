@@ -171,17 +171,22 @@ Quark
 Speed Building
 Toast Control
 
+Mods that are now redundant (Removing):
+Inventory Sorting
+
 Added Mods:
+| :--- | :---: | :---: | :---: |
 | [Clickable Advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) | Unknown | Allows you to click the item icons within the advancements screen to look up their recipes in JEI/EMI. | Client |
 | [Cut Through](https://modrinth.com/mod/cutthrough) | Clean Swing Through Grass (Redundant) | Allows your melee attacks to pass through non-solid blocks like grass and vines, ensuring you hit your target. | Client |
 | [Bodies Bodies!](https://modrinth.com/mod/bodies-bodies) | Corpse (Redundant) | Adds client-side ragdoll physics to entities when they die for a more dynamic visual effect. | Client |
 | [Cosmetic Armor](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor) | Cosmetic Armor Reworked (Redundant) | Adds dedicated cosmetic armor slots, allowing you to change your appearance without affecting your stats. | Both |
-| Every Compat (Wood Good) | Requires Every Compat (Library) | An addon for the Every Compat ecosystem that focuses on adding compatibility for various wood types between mods. | Both |
-| Every Compat (Stone Zone) | Requires Every Compat (Library) | An addon for the Every Compat ecosystem that focuses on adding compatibility for various stone and dirt types. | Both |
-| Every Compat (Gems Realm) | Requires Every Compat (Library) | An addon for the Every Compat ecosystem that adds compatibility for materials like gems, minerals, and metals. | Both |
+| [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat) | Requires Every Compat (Library) | An addon for the Every Compat ecosystem that focuses on adding compatibility for various wood types between mods. | Both |
+| [Every Compat (Stone Zone)](https://www.curseforge.com/minecraft/mc-mods/stone-zone) | Requires Every Compat (Library) | An addon for the Every Compat ecosystem that focuses on adding compatibility for various stone and dirt types. | Both |
+| [Every Compat (Gems Realm)](https://www.curseforge.com/minecraft/mc-mods/gems-realm) | Requires Every Compat (Library) | An addon for the Every Compat ecosystem that adds compatibility for materials like gems, minerals, and metals. | Both |
 | [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | Other inventory management mods | A highly configurable, client-side inventory sorting mod that allows sorting via middle-click, a button, or scrolling. | Client |
 | [Just Enough Breeding](https://www.curseforge.com/minecraft/mc-mods/just-enough-breeding) | Requires JEI | An addon for JEI that shows what items are used to breed any breedable mob in the game. | Client |
 | [Charm (Forked)](https://www.curseforge.com/minecraft/mc-mods/charm-forked) | Mods altering similar vanilla mechanics | A "vanilla plus" mod inspired by Quark that adds a large collection of highly configurable features to enhance the vanilla experience. | Both |
+| [Not Enough Recipe Book](https://www.curseforge.com/minecraft/mc-mods/not-enough-recipe-book) | Unknown | Backports the "Show All" toggle for the recipe book from newer versions, allowing you to see all recipes regardless of whether you have the ingredients. | Client |
 
 ## Extra Server Details
 1.20.1
