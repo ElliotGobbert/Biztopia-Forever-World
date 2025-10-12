@@ -158,23 +158,25 @@
 | [What Are They Up To](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) | Unknown | Shows what other players on a server are doing via an icon and text next to their name in the player list. | Both |
 | [Xaero's Minimap & World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Other minimap mods | Adds a highly customizable minimap and a full-screen world map to the game. | Client |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A highly configurable client-side zoom mod, similar to the feature in OptiFine. | Client |
+
 Removed Mods:
-Better Mods Button
-Better Placement
-Clean swing through grass
-Corpse
-Cosmetic Armor Reworked
-Inventory Sorter
-Mod Name Tooltip
-NoMoWanderer
-Quark
-Speed Building
-Toast Control
+- Better Mods Button
+- Better Placement
+- Clean swing through grass
+- Corpse
+- Cosmetic Armor Reworked
+- Inventory Sorter
+- Mod Name Tooltip
+- NoMoWanderer
+- Quark
+- Speed Building
+- Toast Control
 
 Mods that are now redundant (Removing):
-Inventory Sorting
+- Inventory Sorting
 
 Added Mods:
+| Name | Known Incompatibilities | Description | Client/Server Side |
 | :--- | :---: | :---: | :---: |
 | [Clickable Advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) | Unknown | Allows you to click the item icons within the advancements screen to look up their recipes in JEI/EMI. | Client |
 | [Cut Through](https://modrinth.com/mod/cutthrough) | Clean Swing Through Grass (Redundant) | Allows your melee attacks to pass through non-solid blocks like grass and vines, ensuring you hit your target. | Client |
