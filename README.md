@@ -100,22 +100,30 @@
 | [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric) | Unknown | Replaces the five-bar connection icon in the player list with a numerical ping value. | Client |
 | [Better Placement](https://www.curseforge.com/minecraft/mc-mods/better-placement) | Unknown | Ensures blocks are placed facing the same direction as the previous one, preventing misplacement. | Client |
 | [Better Statistics Screen](https://www.curseforge.com/minecraft/mc-mods/better-stats) | Unknown | Overhauls the statistics screen with a cleaner, searchable, and more detailed interface. | Client |
+| [Bodies Bodies!](https://modrinth.com/mod/bodies-bodies) | Corpse (Redundant) | Adds client-side ragdoll physics to entities when they die for a more dynamic visual effect. | Client |
 | [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) | Some block handling mods | Lets you pick up and carry chests, machines, and mobs without breaking them. | Both |
+| [Charm (Forked)](https://www.curseforge.com/minecraft/mc-mods/charm-forked) | Mods altering similar vanilla mechanics | A "vanilla plus" mod inspired by Quark that adds a large collection of highly configurable features to enhance the vanilla experience. | Both |
 | [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) | Unknown | Shows player heads next to their messages in the chat window. | Client |
 | [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds) | Unknown | Allows you to "favorite" worlds, pinning them to the top of your singleplayer world list. | Client |
+| [Clickable Advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) | Unknown | Allows you to click the item icons within the advancements screen to look up their recipes in JEI/EMI. | Client |
 | [Clean Swing Through Grass](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass) | Unknown | Prevents your sword swings from being interrupted by breaking tall grass or other foliage. | Client |
 | [Connectable Chains](https://www.curseforge.com/minecraft/mc-mods/connectable-chains) | Unknown | Makes chains connect to walls and ceilings for better-looking builds. | Client |
 | [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass) | Requires a compatible resource pack | A resource-pack-based connected textures mod for glass and other blocks. | Client |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) | Unknown | Adds a search bar to the key-binds menu and highlights conflicting keys. | Client |
 | [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) | Unknown | When you die, a corpse is created that holds all your items, preventing them from despawning. | Both |
+| [Cosmetic Armor](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor) | Cosmetic Armor Reworked (Redundant) | Adds dedicated cosmetic armor slots, allowing you to change your appearance without affecting your stats. | Both |
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | Unknown | Adds dedicated cosmetic armor slots to change your appearance without affecting stats. | Both |
 | [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) | Mods with custom crafting tables | Adds buttons to the crafting grid to rotate, balance, or clear it, making crafting faster. | Both |
+| [Cut Through](https://modrinth.com/mod/cutthrough) | Clean Swing Through Grass (Redundant) | Allows your melee attacks to pass through non-solid blocks like grass and vines, ensuring you hit your target. | Client |
 | [Dark Mode Everywhere](https://modrinth.com/mod/dark-mode-everywhere) | Mods with highly custom GUIs | Adds a configurable dark mode to all GUIs, including those from other mods. | Client |
 | [Disable Custom Worlds Advice](https://www.curseforge.com/minecraft/mc-mods/disable-custom-worlds-advice) | Unknown | Removes the "experimental settings" warning when loading worlds with custom datapacks or settings. | Client |
 | [Do a Barrel Roll](https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll) | Unknown | A client-side mod that adds acrobatic movement for the Elytra, allowing for rolls and loops. | Client |
 | [Emojiful](https://www.curseforge.com/minecraft/mc-mods/emojiful) | Unknown | Adds support for emojis in chat, signs, and books. | Both |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | Unknown | Adds descriptions of what each enchantment does to the tooltips of enchanted books. | Client |
 | [Every Compat](https://www.curseforge.com/minecraft/mc-mods/every-compat) | Requires specific content mods | A compatibility mod that adds wood and stone variants from other mods to decoration mods like Macaw's. | Both |
+| [Every Compat (Gems Realm)](https://www.curseforge.com/minecraft/mc-mods/gems-realm) | Requires Every Compat (Library) | An addon for the Every Compat ecosystem that adds compatibility for materials like gems, minerals, and metals. | Both |
+| [Every Compat (Stone Zone)](https://www.curseforge.com/minecraft/mc-mods/stone-zone) | Requires Every Compat (Library) | An addon for the Every Compat ecosystem that focuses on adding compatibility for various stone and dirt types. | Both |
+| [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat) | Requires Every Compat (Library) | An addon for the Every Compat ecosystem that focuses on adding compatibility for various wood types between mods. | Both |
 | [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) | Unknown | Adds falling leaf particles to leaf blocks for a more immersive atmosphere. | Client |
 | [Fast IP Ping](https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping) | Unknown | Speeds up refreshing the server list by using a more efficient pinging method. | Client |
 | [Freecam](https://modrinth.com/mod/free-cam) | Some anti-cheats | Allows you to temporarily detach your camera and fly around the world freely. | Client |
@@ -125,9 +133,11 @@
 | [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings) | Unknown | Allows you to add your own images as paintings via a simple in-game GUI. | Both |
 | [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) | HUD-altering mods | Displays parts of your inventory, armor HUD, and potion effects directly on the screen. | Client |
 | [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) | Unknown | Lets you sort your inventory or any container with the click of a button or a mouse wheel scroll. | Client |
+| [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | Other inventory management mods | A highly configurable, client-side inventory sorting mod that allows sorting via middle-click, a button, or scrolling. | Client |
 | [Item Borders](https://modrinth.com/mod/item-borders) | Unknown | Adds colored borders to items in inventories based on rarity or custom rules. | Client |
 | [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) | Unknown | Displays a tooltip with information about the block or entity you are looking at. | Client |
 | [Jump Over Fences](https://www.curseforge.com/minecraft/mc-mods/jump-over-fences) | Unknown | Allows players on horseback to jump over fences and walls as if they were 1.5 blocks high. | Both |
+| [Just Enough Breeding](https://www.curseforge.com/minecraft/mc-mods/just-enough-breeding) | Requires JEI | An addon for JEI that shows what items are used to breed any breedable mob in the game. | Client |
 | [Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed) | Requires JEI | Adds descriptions of potion effects to their tooltips. | Client |
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | Unknown | View items and recipes, check item uses, and easily search for any item in the game. | Client |
 | [Just Enough Professions (JEP)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep) | Requires JEI | An addon for JEI that shows what workstation block each villager profession requires. | Client |
@@ -139,6 +149,7 @@
 | [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | Unknown | Disables Mojang's chat reporting system by removing cryptographic signing from chat messages. | Both |
 | [No Resource Pack Warnings](https://www.curseforge.com/minecraft/mc-mods/no-resource-pack-warnings) | Unknown | Suppresses the warning screen for using resource packs made for a different Minecraft version. | Client |
 | [NoMoWanderer](https://www.curseforge.com/minecraft/mc-mods/nomowanderer) | Unknown | A server-side mod to control or disable the spawning of the Wandering Trader. | Server |
+| [Not Enough Recipe Book](https://www.curseforge.com/minecraft/mc-mods/not-enough-recipe-book) | Unknown | Backports the "Show All" toggle for the recipe book from newer versions, allowing you to see all recipes regardless of whether you have the ingredients. | Client |
 | [Overflowing Bars](https://modrinth.com/mod/overflowing-bars) | Mods modifying the player HUD | Allows health, hunger, and armor bars to extend into multiple rows instead of being capped. | Client |
 | [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain) | Unknown | Makes rain and snow more immersive by rendering them as 3D particles instead of a flat texture overlay. | Client |
 | [Pick Up Notifier](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier) | Unknown | Displays a list of recently picked-up items on the side of your screen. | Client |
@@ -158,37 +169,6 @@
 | [What Are They Up To](https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to) | Unknown | Shows what other players on a server are doing via an icon and text next to their name in the player list. | Both |
 | [Xaero's Minimap & World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Other minimap mods | Adds a highly customizable minimap and a full-screen world map to the game. | Client |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A highly configurable client-side zoom mod, similar to the feature in OptiFine. | Client |
-
-Removed Mods:
-- Better Mods Button
-- Better Placement
-- Clean swing through grass
-- Corpse
-- Cosmetic Armor Reworked
-- Inventory Sorter
-- Mod Name Tooltip
-- NoMoWanderer
-- Quark
-- Speed Building
-- Toast Control
-
-Mods that are now redundant (Removing):
-- Inventory Sorting
-
-Added Mods:
-| Name | Known Incompatibilities | Description | Client/Server Side |
-| :--- | :---: | :---: | :---: |
-| [Clickable Advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements) | Unknown | Allows you to click the item icons within the advancements screen to look up their recipes in JEI/EMI. | Client |
-| [Cut Through](https://modrinth.com/mod/cutthrough) | Clean Swing Through Grass (Redundant) | Allows your melee attacks to pass through non-solid blocks like grass and vines, ensuring you hit your target. | Client |
-| [Bodies Bodies!](https://modrinth.com/mod/bodies-bodies) | Corpse (Redundant) | Adds client-side ragdoll physics to entities when they die for a more dynamic visual effect. | Client |
-| [Cosmetic Armor](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor) | Cosmetic Armor Reworked (Redundant) | Adds dedicated cosmetic armor slots, allowing you to change your appearance without affecting your stats. | Both |
-| [Every Compat (Wood Good)](https://www.curseforge.com/minecraft/mc-mods/every-compat) | Requires Every Compat (Library) | An addon for the Every Compat ecosystem that focuses on adding compatibility for various wood types between mods. | Both |
-| [Every Compat (Stone Zone)](https://www.curseforge.com/minecraft/mc-mods/stone-zone) | Requires Every Compat (Library) | An addon for the Every Compat ecosystem that focuses on adding compatibility for various stone and dirt types. | Both |
-| [Every Compat (Gems Realm)](https://www.curseforge.com/minecraft/mc-mods/gems-realm) | Requires Every Compat (Library) | An addon for the Every Compat ecosystem that adds compatibility for materials like gems, minerals, and metals. | Both |
-| [Inventory Sorting](https://modrinth.com/mod/inventory-sorting) | Other inventory management mods | A highly configurable, client-side inventory sorting mod that allows sorting via middle-click, a button, or scrolling. | Client |
-| [Just Enough Breeding](https://www.curseforge.com/minecraft/mc-mods/just-enough-breeding) | Requires JEI | An addon for JEI that shows what items are used to breed any breedable mob in the game. | Client |
-| [Charm (Forked)](https://www.curseforge.com/minecraft/mc-mods/charm-forked) | Mods altering similar vanilla mechanics | A "vanilla plus" mod inspired by Quark that adds a large collection of highly configurable features to enhance the vanilla experience. | Both |
-| [Not Enough Recipe Book](https://www.curseforge.com/minecraft/mc-mods/not-enough-recipe-book) | Unknown | Backports the "Show All" toggle for the recipe book from newer versions, allowing you to see all recipes regardless of whether you have the ingredients. | Client |
 
 ## Extra Server Details
 1.20.1
